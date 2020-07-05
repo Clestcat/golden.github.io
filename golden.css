@@ -1,0 +1,13 @@
+.bigboy {
+  font-size: 2rem;
+  width: 50%;
+  text-align: center;
+}
+#golden {
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: red;
+}
